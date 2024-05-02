@@ -2,7 +2,7 @@
 This repository contains MATLAB and R code utilized for the visualization and analysis of data regarding the development of alpha desynchronization across infancy.
 
 ## MATLAB Code
-After preprocessing the EEG data and obtaining Fast Fourier Transform (FFT) and desynchronization values per electrode and frequency for each subject, the MATLAB code in this repository is used for the following purposes:
+After preprocessing the EEG data and obtaining Fast Fourier Transform (FFT) and desynchronization values per electrode and frequency for each subject, the MATLAB code (alpha_desycnh_ME_2023.m) in this repository is used for the following purposes:
 
 - Generating spectra plots to visualize the pre-processed data.
 - Creating headplots to illustrate the distribution of alpha desynchronization across the brain.
